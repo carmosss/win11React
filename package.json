@@ -24,6 +24,7 @@
     "i18next-browser-languagedetector": "^6.1.8",
     "i18next-http-backend": "^1.4.5",
     "i18next-xhr-backend": "^3.2.2",
+    "nvm": "^0.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-error-boundary": "^3.1.4",
@@ -35,7 +36,8 @@
     "react-scripts": "^5.0.1",
     "redux": "^4.2.1",
     "sass": "^1.64.1",
-    "translation-check": "^1.0.3"
+    "translation-check": "^1.0.3",
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "start": "vite",
@@ -71,7 +73,7 @@
     "postcss": "^8.4.27",
     "prettier": "^2.8.8",
     "tailwindcss": "^3.3.3",
-    "vite": "3.0.4",
+    "vite": "^3.0.4",
     "vite-plugin-pwa": "^0.12.8"
   }
 }
